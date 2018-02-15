@@ -36,3 +36,7 @@ $ yarn start
 ```
 
 That should do the trick.
+
+## Future improvements
+
+One of the many ways this script could be improved is by making the inputs variable. This could be achieved by providing a json file through stdin or an argument.
