@@ -1,0 +1,19 @@
+{
+  "name": "esk",
+  "version": "0.0.0",
+  "main": "dist/main.js",
+  "author": "Arjo Bruijnes <arjo@weirdwater.net>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node dist/main.js",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "immutable": "^3.8.2",
+    "moment": "^2.20.1"
+  },
+  "devDependencies": {
+    "@types/node": "^9.4.6",
+    "typescript": "^2.7.1"
+  }
+}

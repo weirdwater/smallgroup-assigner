@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "commonJS",
+        "noImplicitAny": true,
+        "preserveConstEnums": true,
+        "outDir": "dist",
+        "sourceMap": true,
+        "target": "es5"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
